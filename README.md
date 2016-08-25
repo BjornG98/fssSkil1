@@ -1,2 +1,2 @@
 # verkefni
-Skólaverkefni
+verkefni1
